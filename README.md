@@ -100,7 +100,11 @@ AI: Google Generative AI (Gemini 1.5 Flash).
     
 API: Chrome Extension API (v3).
 
+
+
 Screenshots Examples
+
+
 <img width="364" height="445" alt="Screenshot 2026-03-04 013345" src="https://github.com/user-attachments/assets/9bcae027-fb22-41b3-a2ee-af69c88356b6" />
 <img width="1678" height="795" alt="Screenshot 2026-03-04 013317" src="https://github.com/user-attachments/assets/d06f9bb4-bbee-45af-ab21-d993391ce88f" />
 <img width="361" height="247" alt="Screenshot 2026-03-04 000527" src="https://github.com/user-attachments/assets/195eea01-243a-47fa-9768-982355654d72" />
