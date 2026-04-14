@@ -1,5 +1,7 @@
 🛡️ AI Webpage Link Scanner
+
 An AI-powered Chrome Extension designed to identify and neutralize phishing threats in real-time. By leveraging the Google Gemini AI model, this tool scans hyperlinks within your browser—specifically optimized for Gmail and Outlook—to classify them as safe or malicious before you click.
+
 ✨ Features
     Real-Time Email Protection: Automatically monitors Gmail and Outlook for incoming links using a MutationObserver.
     Heuristic AI Analysis: Uses Gemini  to analyze URL structures and identify "zero-day" phishing attempts that traditional blacklists might miss.
